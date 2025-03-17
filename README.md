@@ -1,1 +1,1 @@
-# Pipelines-Templates
+# Templates
